@@ -1,0 +1,62 @@
+body {background-color: #20b36c; color:white;}
+
+.title {
+font-size: 4em; 
+font-weight:bold;
+margin: auto;
+margin-top: .9em;
+display: block;
+width: 6.5em;
+}
+.subtitle {
+margin: auto;
+margin-top: -.6em;
+display: block;
+width: 4em;
+font-size: 1.5em;
+}
+.login {
+margin-top: -2em !important;
+margin-right: 1em !important;
+float: right;
+}
+
+.msg {
+margin-right: .5em;
+display: inline-block
+}
+h2{
+margin: auto !important;
+width: 17.3em !important;
+color: white !important;
+
+}
+h1 {
+margin: auto !important;
+width: 13.2em !important;
+color: white !important;
+font-size: 3em !important;
+}
+p {
+width: 35em !important;
+margin: auto;
+margin-top: 1em !important;
+line-height: 2em;
+word-spacing: .1em;
+letter-spacing: .1em;
+font-size: 1.2em;
+color: ghostwhite;
+}
+.signup {
+margin: auto;
+width: 20em;
+text-align: center;
+font-size: 1.5em;
+font-weight: bold;
+}
+.slider {
+margin: auto;
+width: 80%;
+height: 10%;
+margin-top: 1.3em;
+}
